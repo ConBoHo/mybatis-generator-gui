@@ -31,7 +31,8 @@ mybatis-generator-gui是基于 [mybatis generator](http://www.mybatis.org/genera
 ### 直接运行（非必须）
 推荐使用IDE直接运行，如果需要二进制安装包，可以关注公众号获取二进制安装版，目前支持Windows和MacOS，注意你的JDK是不是1.8，并且版本大于1.8.0.60
 
-
+### 博客
+https://blog.csdn.net/qq_40087415/article/details/85041995
 ### 启动本软件
 
 * 方法一：关注微信公众号“搬砖头也要有态度”，回复“GUI”获取下载链接
